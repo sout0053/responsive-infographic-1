@@ -38,10 +38,6 @@ svg {
   padding: 0;
 }
 
-.burping-guy {
-  float: right;
-}
-
 .calories, .did-you-know, .moderation, {
-  float: left;
+  float: right;
   }
